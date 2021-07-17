@@ -16,11 +16,11 @@ const StateWise = ()=> {
         <>
             
              <div className="container-fluid mt-5">
-                 <div className ="container">
-                     <h1 className="mb-5 text-center text-white">INDIA COVID-19 Dashboard</h1>
-                     </div>
+                 
+                     <h1 className="title">INDIA COVID-19 Dashboard</h1>
+                     
                 <div className="table-responsive bg-white">
-                    <table className="table table-striped table-hover">
+                    <table className="table table-striped table-hover myclass">
                         <thead className="table-dark">
                             <tr>
                                 <th>State</th>
